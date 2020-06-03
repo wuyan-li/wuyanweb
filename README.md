@@ -1,2 +1,1 @@
-# wuyanweb
-第一个GitHub库
+C++课程项目
